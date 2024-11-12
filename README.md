@@ -4,4 +4,4 @@ Steganography is the art of hiding the fact that communication is taking place, 
 
 Steganography  become  more  important  as  more  people  join  the  cyberspace revolution.  Steganography  is  the  art  of  concealing  information  in  ways  that prevents the detection of hidden messages. Stegranography include an array of secret communication methods  that  hide  the  message  from  being  seen  or  discovered.
 
-Me and my Team Build this project in 2018 it was out Final year project. We were the part of creato-2018 National level Project Competition for Diploma Students.
+Me and my Team Build this project in 2018 it was our Final year project. We were the part of creato-2018 National level Project Competition for Diploma Students.
